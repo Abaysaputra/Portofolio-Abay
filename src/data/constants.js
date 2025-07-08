@@ -173,7 +173,7 @@ export const experiences = [
     role: "Community Service Division Staff",
     company: "BEM FASILKOM UPN Veteran Jawa Timur",
     date: "Apr 2024 - Apr 2025",
-    desc: "Berkontribusi pada berbagai proyek sumber terbuka dan belajar dari universitas penyelengara",
+    desc: "Melalui peran strategis di Divisi Pengabdian Masyarakat, saya secara aktif mengaplikasikan dan mengasah berbagai keterampilan. Saya mempraktikkan manajemen proyek dan perencanaan acara dengan mengelola kegiatan dari konsep hingga selesai. Kemampuan kerja tim dan komunikasi menjadi kunci dalam berkolaborasi dengan anggota divisi dan mitra eksternal. Selain itu, saya juga berkontribusi pada proyek teknis yang menantang kemampuan problem-solving saya dalam konteks sosial yang nyata.",
     skills: [
       "Leadership",
       "Public Speaking",
@@ -197,7 +197,7 @@ export const experiences = [
     role: "Chief Executive of the Abdi Desa FASILKOM LEGO 2024",
     company: "BEM FASILKOM UPN Veteran Jawa Timur",
     date: "Nov 2024 - Nov 2024",
-    desc: "Sebagai Pemimpin Program Abdi Desa di Mojokerto, Anda bertanggung jawab memimpin inisiatif pemberdayaan masyarakat yang berfokus pada teknologi dan pendidikan. Tugas utama Anda mencakup digitalisasi UMKM, pengembangan situs web desa, pelestarian pariwisata lokal, pengajaran desain grafis di sekolah dasar, serta mengorganisir berbagai acara komunitas untuk memperkuat kebersamaan warga. Peran ini secara keseluruhan telah mengasah keterampilan Anda dalam kepemimpinan, manajemen proyek, dan keterlibatan komunitas dalam sebuah lingkungan yang nyata dan multidisiplin.",
+    desc: "Sebagai Pemimpin Program Abdi Desa di Mojokerto, saya bertanggung jawab memimpin inisiatif pemberdayaan masyarakat yang berfokus pada teknologi dan pendidikan. Tugas utama yang saya dan tim jalani mencakup digitalisasi UMKM, pengembangan situs web desa, pelestarian pariwisata lokal, pengajaran desain grafis di sekolah dasar, serta mengorganisir berbagai acara komunitas untuk memperkuat kebersamaan warga. Peran ini secara keseluruhan telah mengasah keterampiidisilan saya dalam kepemimpinan, manajemen proyek, dan keterlibatan komunitas dalam sebuah lingkungan yang nyata dan multplin.",
     skills: [
       "Leadership",
       "Project Management",
