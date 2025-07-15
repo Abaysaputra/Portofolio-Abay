@@ -2,7 +2,10 @@ import projectFlowImage from '../assets/images/projectFlow.png';
 import prediksiNB from '../assets/images/prediksiNaiveBayes.png';
 import bengkelMotorCLI from '../assets/images/manajemenBengkelCLI.png';
 import ortodoxShhop from '../assets/images/ortodoxShop.png';
-import { WhatsApp } from '@mui/icons-material';
+import siAlma from '../assets/images/sialma.png';
+import maturPakWali from '../assets/images/maturpkwali.png';
+import budiUtama from '../assets/images/budiutama.png';
+
 
 export const Bio = {
   name: "Adi Bayu Saputra",
@@ -13,7 +16,6 @@ export const Bio = {
   ],
   description:
     "As an Informatics student at Universitas Pembangunan Nasional 'Veteran' Jawa Timur, I have a strong interest and expertise in Full Stack Development, Data Analysis, and Computer Networks. With a solid academic foundation and practical experience, I am skilled at integrating technical abilities with analytical thinking to address various challenges in the tech industry.",
-  github: "https://github.com/Abaysaputra",
   resume:
     "https://drive.google.com/drive/folders/1MtbHgpK9ib4a2bNrXK2b0pFuqNBANrYY?usp=sharing",
   insta: "https://www.instagram.com/abay_saputrra/",
@@ -276,7 +278,7 @@ export const projects = [
     description:
       "Aplikasi ini merupakan aplikasi pengaduan masyrakat yang dikhususukan untuk wilayah Surabaya dan sekitarnya. Aplikasi ini dibuat untuk memudahkan masyarakat dalam mengadukan keluhan mereka kepada pemerintah kota Surabaya. Aplikasi ini juga dilengkapi dengan fitur peta untuk memudahkan masyarakat dalam menemukan lokasi pengaduan mereka. Aplikasi ini juga dilengkapi dengan fitur chat untuk memudahkan masyarakat dalam berkomunikasi dengan pemerintah kota Surabaya. Aplikasi ini juga dilengkapi dengan fitur notifikasi untuk memudahkan masyarakat dalam mengetahui status pengaduan mereka. Aplikasi ini juga dilengkapi dengan fitur statistik untuk memudahkan masyarakat dalam mengetahui jumlah pengaduan yang masuk dan jumlah pengaduan yang sudah ditangani.",
     image:
-      "https://media.licdn.com/dms/image/v2/D562DAQG3re9BXLN4RA/profile-treasury-image-shrink_800_800/B56Zffn._ZHEAY-/0/1751803501760?e=1752411600&v=beta&t=cwCstMsXyiB5nkf5xepiOVMMjZ0u1S0IR4EphYzQKA4",
+      maturPakWali,
     tags: [
       "PHP Native",
       "Java Script",
@@ -286,8 +288,8 @@ export const projects = [
       "JQuery"
     ],
     category: "web app",
-    github: "0#",
-    webapp: "https://trackify.duckdns.org",
+    github: "https://github.com/Abaysaputra/matur-pak-wali.git",
+    webapp: "0#",
   },
   {
     id: 0,
@@ -296,11 +298,11 @@ export const projects = [
     description:
       "Aplikasi ini merupakan aplikasi alih media buku fisik ke digital yang dibuat untuk Dinas Perpustakaan dan Kearsipan Kabupaten Bojonegoro. Aplikasi ini dibuat menggunakan Vue.js sebagai framework untuk frontend, Laravel untuk backend, dan MySql sebagai database. Aplikasi ini juga dilengkapi dengan fitur upload file, download file, dan pencarian file.",
     image:
-      "https://media.licdn.com/dms/image/v2/D562DAQGfBvVIKt3pCA/profile-treasury-image-shrink_800_800/B56ZevqPS3HEAc-/0/1750998775766?e=1752411600&v=beta&t=LcDgttFEAMIV1-rxJoSVK_h5SLjXOeLVOzmCFcO7N_c",
+      siAlma,
     tags: ["Vue JS", "MySQL", "Laravel", "Tailwind CSS", "PHP"],
     category: "web app",
     github: "0#",
-    webapp: "https://podstream.netlify.app/",
+    webapp: "0#",
     member: [
       {
         name: "Adi Bayu Saputra",
@@ -323,7 +325,7 @@ export const projects = [
     description:
       "Aplikasi ini merupakan aplikasi web yang dibuat untuk CV Budi Utama Mandiri. Aplikasi ini dibuat menggunakan HTML, Boostrap, dan JavaScript. Aplikasi ini juga dilengkapi dengan fitur navigasi halaman dan API menggunakan PHP. Aplikasi ini juga dilengkapi dengan fitur responsif untuk memudahkan pengguna dalam mengakses aplikasi ini di berbagai perangkat.",
     image:
-      "https://media.licdn.com/dms/image/v2/D562DAQFfrieWiSIsYQ/profile-treasury-image-shrink_800_800/B56Zevr6gQGQAg-/0/1750999216081?e=1752411600&v=beta&t=6IyjoYWmW1k8sLooF1C2tJFUr4Mb-7tFQL0_3U0oiSc",
+      budiUtama,
     tags: [
       "Bootstrap",
       "JavaScript",
@@ -366,7 +368,7 @@ export const projects = [
     image: prediksiNB,
     tags: ["Python", "Naive Bayes", "Pandas", "NumPy", "Matplotlib", "Seaborn", "Scikit-learn"],
     category: "machine learning",
-    github: "0#",
+    github: "https://github.com/Abaysaputra/data-visualization-nb.git",
     webapp: "0#",
   },
     {
@@ -378,7 +380,7 @@ export const projects = [
     image: ortodoxShhop,
     tags: ["React JS", "React Native", "Tailwind CSS", "Midtrans", "Laravel", "MySQL", "PHP", "JQuery"],
     category: "web app",
-    github: "0#",
+    github: "https://github.com/Ferrrdy/ortodox-origin.git",
     webapp: "0#",
   },
   {
@@ -391,7 +393,7 @@ export const projects = [
       bengkelMotorCLI,
     tags: ["C++", "CLI", "File I/O", "Data Structures", "Algorithms"],
     category: "android app",
-    github: "0#",
+    github: "https://github.com/Abaysaputra/manajemen-bengkel-motor.git",
     webapp: "0#",
   },
 ];
