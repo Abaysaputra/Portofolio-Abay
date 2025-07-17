@@ -5,6 +5,10 @@ import ortodoxShhop from '../assets/images/ortodoxShop.png';
 import siAlma from '../assets/images/sialma.png';
 import maturPakWali from '../assets/images/maturpkwali.png';
 import budiUtama from '../assets/images/budiutama.png';
+import projectTestAPI from '../assets/images/projecttestapi.jpeg';
+import projectFlowUI from '../assets/images/uiprojectflow.png';
+import bemFasilkom from '../assets/images/bemfasilkom.png';
+import lego from '../assets/images/lego.png';
 
 
 export const Bio = {
@@ -145,7 +149,7 @@ export const experiences = [
       "JQuery",
       "JavaScript",
     ],
-    doc: "https://media.licdn.com/dms/image/v2/D562DAQFfrieWiSIsYQ/profile-treasury-image-shrink_800_800/B56Zevr6gQGQAg-/0/1750999216081?e=1752336000&v=beta&t=nZwEZ7NPCMd0Ys4-WanlhLvXElkQY_ayw4Q8z0dS8Rg",
+    doc: budiUtama,
   },
   {
     id: 1,
@@ -166,7 +170,7 @@ export const experiences = [
       "AWS",
       "MongoDB",
     ],
-    doc: "https://media.licdn.com/dms/image/v2/D562DAQGfBvVIKt3pCA/profile-treasury-image-shrink_800_800/B56ZevqPS3HEAc-/0/1750998775766?e=1752336000&v=beta&t=Tt4m9DD0wcTxK-v3d3_dxouic7h9TmEFXj3JxsuxFDE",
+    doc: siAlma,
 
   },
   {
@@ -191,7 +195,7 @@ export const experiences = [
       "Community Engagement",
       "Volunteering",
     ],
-    doc: "https://media.licdn.com/dms/image/v2/D562DAQGkezqire-lmQ/profile-treasury-image-shrink_800_800/B56ZewxBSlHQAY-/0/1751017333227?e=1752336000&v=beta&t=E6Tw2fjtHwbbHKHY8wkvv55ze-_X9amWpJd9n4A6EAw",
+    doc: bemFasilkom,
   },
   {
     id: 3,
@@ -219,7 +223,7 @@ export const experiences = [
       "Social Media Management",
       "Data Analysis",
     ],
-    doc: "https://media.licdn.com/dms/image/v2/D562DAQGTPFHXSxh1iA/profile-treasury-image-shrink_800_800/B56Zewxs1MHEAc-/0/1751017511405?e=1752336000&v=beta&t=CaCA3c4WrnabTZCa93fVNiUs2nnEyA-Sa3xiW0cEpPQ",
+    doc: lego,
   },
   {
     id: 4,
@@ -396,6 +400,33 @@ export const projects = [
     github: "https://github.com/Abaysaputra/manajemen-bengkel-motor.git",
     webapp: "0#",
   },
+    {
+    id: 11,
+    title: "Project Test API React",
+    date: "Jul 2025",
+    description:
+      "Ini merupakan website yang saya buat waktu test untuk intern di PT. Suitmedia pada program magang berdampak, terdapat beberapa soal yang diberikan salah satunya yaitu API Consumn untuk card.",
+    image:
+      projectTestAPI,
+    tags: ["React Js", "Tailwind CSS", "API", "Data Structures", "GIT"],
+    category: "web app",
+    github: "https://github.com/Abaysaputra/project-test-adi-bayu-saputra.git",
+    webapp: "https://project-test-adi-bayu-saputra.vercel.app",
+  },
+    {
+    id: 12,
+    title: "Project Flow UI/UX",
+    date: "Jan 2025",
+    description:
+      "Design UI/UX mobile apps Project Flow Management, aplikasi ini merupakan aplikasi untuk manajemen proyek. Aplikasi ini dibuat menggunakan Flutter, untuk UI/UX dibuat menggunakan Figma. Aplikasi ini dilengkapi dengan fitur login, register, dan dashboard untuk mengelola proyek. Aplikasi ini juga dilengkapi dengan fitur pencarian proyek, pengaturan profil, dan pengaturan proyek. Aplikasi ini juga dilengkapi dengan fitur notifikasi untuk memudahkan pengguna dalam mengetahui status proyek.",
+    image:
+      projectFlowUI,
+    tags: ["UI/UX", "Figma", "Design", "Coolors"],
+    category: "web app",
+    github: "https://www.figma.com/design/JhTcnYHqFYetoneIgfvieX/Task-Manager?node-id=286-2073&t=RNIzWz1YzNF3MkZE-1",
+    webapp: "0#",
+  },
+
 ];
 
 export const TimeLineData = [
